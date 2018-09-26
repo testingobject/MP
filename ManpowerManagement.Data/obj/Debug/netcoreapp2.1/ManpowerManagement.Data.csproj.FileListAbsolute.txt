@@ -1,0 +1,9 @@
+D:\Manjeet Work Space\Demo\Student-CC\ManpowerManagement.Data\bin\Debug\netcoreapp2.1\ManpowerManagement.Data.deps.json
+D:\Manjeet Work Space\Demo\Student-CC\ManpowerManagement.Data\bin\Debug\netcoreapp2.1\ManpowerManagement.Data.dll
+D:\Manjeet Work Space\Demo\Student-CC\ManpowerManagement.Data\bin\Debug\netcoreapp2.1\ManpowerManagement.Data.pdb
+D:\Manjeet Work Space\Demo\Student-CC\ManpowerManagement.Data\obj\Debug\netcoreapp2.1\ManpowerManagement.Data.csproj.CoreCompileInputs.cache
+D:\Manjeet Work Space\Demo\Student-CC\ManpowerManagement.Data\obj\Debug\netcoreapp2.1\ManpowerManagement.Data.AssemblyInfoInputs.cache
+D:\Manjeet Work Space\Demo\Student-CC\ManpowerManagement.Data\obj\Debug\netcoreapp2.1\ManpowerManagement.Data.AssemblyInfo.cs
+D:\Manjeet Work Space\Demo\Student-CC\ManpowerManagement.Data\obj\Debug\netcoreapp2.1\ManpowerManagement.Data.dll
+D:\Manjeet Work Space\Demo\Student-CC\ManpowerManagement.Data\obj\Debug\netcoreapp2.1\ManpowerManagement.Data.pdb
+D:\Manjeet Work Space\Demo\Student-CC\ManpowerManagement.Data\obj\Debug\netcoreapp2.1\ManpowerManagement.Data.csprojAssemblyReference.cache
